@@ -1,6 +1,6 @@
 # 🏢 Sistem Loket & Antrian Pelayanan – Kelompok 3 UPB
 
-Aplikasi web ini merupakan sistem **pendaftaran antrian pelayanan berbasis loket**, dirancang untuk membantu mengatur urutan layanan masyarakat di tempat pelayanan publik seperti kantor pemerintahan, rumah sakit, atau lembaga pendidikan.
+Aplikasi web ini merupakan sistem **pendaftaran antrian pelayanan berbasis loket**, dirancang untuk membantu mengatur urutan layanan masyarakat di tempat pelayanan publik seperti rumah sakit.
 
 Dibangun menggunakan **CodeIgniter 4**, sistem ini memudahkan pengguna dalam mengambil nomor antrian, mencetak tiket, dan memantau proses layanan secara efisien.
 
