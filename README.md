@@ -37,5 +37,5 @@ Dibangun menggunakan **CodeIgniter 4**, sistem ini memudahkan pengguna dalam men
 
 ---
 
-### Link Hosting : <a href="https://kelompok3upb.my.id/login">kelompok 3 upb </a>
-### Link Youtube : <a href="https://www.youtube.com/watch?v=zaWnHww5v1U">kelompok 3 upb </a>
+### Link Hosting : <a href="https://kelompok3upb.my.id/login">Link Hosting kelompok 3 upb </a>
+### Link Youtube : <a href="https://www.youtube.com/watch?v=zaWnHww5v1U">Link Youtube kelompok 3 upb </a>
