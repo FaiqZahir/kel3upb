@@ -39,3 +39,4 @@ Dibangun menggunakan **CodeIgniter 4**, sistem ini memudahkan pengguna dalam men
 
 ### Link Hosting : <a href="https://kelompok3upb.my.id/login">Link Hosting kelompok 3 upb </a>
 ### Link Youtube : <a href="https://www.youtube.com/watch?v=zaWnHww5v1U">Link Youtube kelompok 3 upb </a>
+### Link Poster  : <a href=" https://www.canva.com/design/DAGrn-MpB34/3UAMNekEVfEnx6OIRkXuYg/edit?utm_content=DAGrn-MpB34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttondan">Link Poster kelompok 3 upb </a>
